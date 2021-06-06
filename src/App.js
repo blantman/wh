@@ -1,5 +1,5 @@
 import { Bop } from './wh/Wh';
-import './App.css';
+import './wh/Wh.css';
 
 
 function App() {

@@ -1,2 +1,41 @@
+body{
+  background-color: #fefecc;
+}
+    
 
+.generalInfo {
+  margin: 150px;
+  text-align: center;
+}
 
+.info {
+  display: flex;
+  justify-content: space-around;
+  margin-right: 550px;
+  margin-left: 550px;
+}
+
+.box {
+  padding: 25px 35px;
+  width: 290px;
+  text-align: left;
+  background-color: white;
+  
+}
+
+.boxx {
+  padding: 25px 35px;
+  width: 290px;
+  text-align: left;
+  background-color: white;
+}
+
+.words {
+  font-size: 30px;
+  color: blue;
+}
+
+.raund {
+  color: blue;
+  font-size: 40px;
+}
